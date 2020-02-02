@@ -1,0 +1,7 @@
+id=CustomHavocFonts
+name=Custom Fonts for Havoc OS
+version=v1
+versionCode=1
+author=DrDeath
+description=Replaces the original Havoc-Fonts.apk with a light-weight custom version, which has only 16 good fonts.
+minMagisk=17000
